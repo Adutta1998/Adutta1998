@@ -1,16 +1,17 @@
-### Hi there 👋
+## It's Avinaba 👋
 
 <!--
 **Adutta1998/Adutta1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hello Friends, I am a Computer student and I'm currently pursuing my MCA degree from Kalyani Government Engineering Collage.
+#### About Myself
+- A Music Lover 🎼 
+- Typical Bong 👦🏽
+- Wish Me On Dec, 🍥
+- Pursuing MCA from Kalyani GOVT. Engineering College 📔
+- Graduated! Done my BCA degree from Raiganj University 👨‍🎓
+- Love To Code 💻
+- Love to Design UX/UI,Software Front End,Backend
+- Languages I Speak: English ,Hindi,Bengali
+- Languages I Speak(Through Computer): C,C++,Java,
+- Also bit of a web developer nowdays who uses Node,Vue,Laravel to develope websites
