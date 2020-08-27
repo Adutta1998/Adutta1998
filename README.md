@@ -7,7 +7,7 @@
 #### About Myself
 - A Music Lover 🎼 
 - Typical Bong 👦🏽
-- Wish Me On Dec, 🍥
+- Wish Me On Dec,15th 🍥
 - Pursuing MCA from Kalyani GOVT. Engineering College 📔
 - Graduated! Done my BCA degree from Raiganj University 👨‍🎓
 - Love To Code 💻
